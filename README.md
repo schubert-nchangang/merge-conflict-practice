@@ -1,2 +1,2 @@
 # merge-conflict-practice
-Side A says: choose tea.
+Side A says: choose cup,
